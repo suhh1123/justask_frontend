@@ -1,0 +1,37 @@
+.div1 {
+    display: flex;
+}
+
+.div2 {
+    position: absolute;
+    right: 80px;
+    display: flex;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 5px;
+    top: 12px;
+}
+
+.avatar {
+    position: relative;
+    top: 30px;
+    left: -10px;
+}
+
+.welcomeInfo {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 15px;
+}
+
+.logout-button {
+    position: relative;
+    top: 30px;
+    left: 40px;
+}

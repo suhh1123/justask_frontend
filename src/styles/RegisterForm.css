@@ -1,0 +1,14 @@
+.register-form {
+  position: relative;
+  top: 250px;
+}
+
+.register-form-back-to-login {
+  float: right;
+  position: relative;
+  top: 5px;
+}
+
+.register-form-button {
+  width: 50%;
+}

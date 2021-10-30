@@ -1,0 +1,27 @@
+@import './AppFooter.css';
+@import './AppHeader.css';
+
+.common_layout .ant-layout-header {
+  background:	#91d5ff;
+  display: flex;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  color: 	#1f6099;
+  box-shadow: rgb(220, 220, 220) 0 2px 10px;
+}
+
+.common_layout .ant-layout-content {
+  background: #fff;
+  min-height: 747px;
+  max-height: 1000px;
+}
+
+.common_layout .ant-layout-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  background:	#91d5ff;
+  color: #1f6099;
+}
